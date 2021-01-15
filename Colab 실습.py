@@ -29,4 +29,3 @@ model.fit(독립, 종속, epochs=10)
 # 모델을 이용합니다. 
 print(model.predict(독립))
 print(model.predict([[15]]))
-
